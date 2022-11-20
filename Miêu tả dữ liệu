@@ -1,0 +1,7 @@
+Day : Ngày trong khoảng thời gian mà trang web này xét trong từng quốc gia, có số lượng stream cao nhất
+T10 : không quan trọng lắm
+Pk : số lượng stream/người
+PkStream : số lượng người stream bài hát đấy trong ngày cao nhất
+Total : số lượng stream cao nhất 1 ngày
+
+Trong file này chỉ cần xét PkStream và Total là 2 số liệu đánh giá người dùng
